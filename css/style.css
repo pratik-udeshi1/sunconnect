@@ -2483,3 +2483,38 @@ blockquote .author-name {
 .shortcodes .alert .alert-top{
 	padding:20px auto 10px;
 }
+
+#logop {
+    width: 255px;
+    height: 104px;
+    background: url(/web/20210118042622im_/http://www.sunconnect.in/about.png);
+    position: absolute;
+    left: 200px;
+    top: 150px;
+}
+
+
+#enf {
+    width: 255px;
+    height: 104px;
+    background: url(/web/20210118042622im_/http://www.sunconnect.in/member-of-ENF-solar.gif);
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+
+.product-img-2t-50 {
+	height: 190px;
+}
+
+.product-img-3t {
+	height: 210px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
