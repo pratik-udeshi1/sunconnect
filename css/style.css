@@ -2487,7 +2487,7 @@ blockquote .author-name {
 #logop {
     width: 255px;
     height: 104px;
-    background: url(/web/20210118042622im_/http://www.sunconnect.in/about.png);
+    /*background: url(about.png);*/
     position: absolute;
     left: 200px;
     top: 150px;
@@ -2497,12 +2497,11 @@ blockquote .author-name {
 #enf {
     width: 255px;
     height: 104px;
-    background: url(/web/20210118042622im_/http://www.sunconnect.in/member-of-ENF-solar.gif);
+    /*background: url(member-of-ENF-solar.gif);*/
     position: absolute;
     left: 200px;
     top: 300px;
 }
-
 
 .product-img-2t-50 {
 	height: 190px;
